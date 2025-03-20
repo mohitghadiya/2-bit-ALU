@@ -1,22 +1,24 @@
 The 2-bit Arithmetic Logic Unit (ALU) is a digital circuit capable of performing basic arithmetic and logical operations on 2-bit inputs. This project implements the following operations:
---Full Addition
+*Full Addition
 
---Full Subtraction
+*Full Subtraction
 
---Comparison
+*Comparison
 
---Bitwise AND
+*Bitwise AND
 
---Bitwise OR
+*Bitwise OR
 
---Bitwise XOR
+*Bitwise XOR
 
-* Features:-
 
---Takes two 2-bit binary inputs
+Features:-
 
---Supports multiple arithmetic and logical operations
 
---Designed using logic gates
+*Takes two 2-bit binary inputs
 
---Can be implemented in hardware or simulated in software
+*Supports multiple arithmetic and logical operations
+
+*Designed using logic gates
+
+*Can be implemented in hardware or simulated in software
